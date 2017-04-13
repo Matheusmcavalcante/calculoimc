@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:00:43:35 -0300] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:00:43:48 -0300] "GET /calculoimc HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:00:43:48 -0300] "GET /calculoimc/ HTTP/1.1" 200 4656 http-bio-8080-exec-5 32
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:00:43:48 -0300] "GET /calculoimc/css/style.css HTTP/1.1" 200 10044 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:00:43:48 -0300] "GET /calculoimc/js/jquery-2.2.1.js HTTP/1.1" 200 258549 http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [13/Apr/2017:00:43:48 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
