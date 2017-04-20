@@ -10,7 +10,7 @@ Calculadora do índice de massa corporal
 
 ### Para rodar com o Tomcat.
 
-`mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run`
+`mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=9090`
 
 ### Caso apresente o erro
 
@@ -22,4 +22,4 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a aplicação
 
-`http://localhost:8080/calculoimc` em qualquer navegador.
+`http://localhost:9090/calculoimc` em qualquer navegador.
